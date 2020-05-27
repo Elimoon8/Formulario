@@ -10,7 +10,7 @@
   <body>
     <nav>
       <div class="logo_imagen">
-        <img src="imagen/Soldeaquino1.png" alt="">
+        <img src="imagen/Soldeaquino1.PNG" alt="">
         </div>
         </nav>
     <center>
